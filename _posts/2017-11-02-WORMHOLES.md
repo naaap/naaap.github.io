@@ -37,15 +37,11 @@
 
 Wormholes are a consequence of Einstein's field equations (EFEs), and result in the formation of a "bridge" connecting two asymptotically flat regions of spacetime, like so:
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/blackholes_wormhole.jpg" | absolute_url }})
-</center>
 
 A few terms to remember straight away. This whole thing:
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/bridge.png" | absolute_url }})
-</center>
 
 That's the wormhole per se, and it is often referred to as the *bridge*, and the narrowest section of the bridge is called the *throat*. We will later examine how this particular shape comes about, among other things.
 
@@ -107,31 +103,23 @@ We can determine that in cylindrical coordinates the Schwarzschild wormhole is g
 
 This corresponds to the figure we saw earlier:
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/bridge.png" | absolute_url }})
-</center>
 
 At the throat we have \\(u = 0\\). Since \\(r = u^{2} - 2m\\), that means that the throat has radius \\(2m\\).
 
 So what about the space around it? It will correspond to two asymptotically flat regions connected to the two bases of the bridge. 
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/schwormholeCensored.png" | absolute_url }})
-</center>
 
 But will they correspond to two different universes, or to a single, multiply connected one? Geon solutions to the coupled Einstein-Maxwell field equations suggest that what we are looking at is the latter, and that is the model that tends to be used. Since the EFEs are purely local in character, they allow for multiply connected spaces connecting distant regions of the same asymptotically flat universe, so we're not doing anything that isn't strictly kosher there.
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/schwormhole.png" | absolute_url }})
-</center>
 
 Another thing that might be worth mentioning here is that this setup corresponds to having a Schjfpaiwenjgqpwif black hole on one asymptotically flat space and a Schwanorglkveoum white hole on the other one.
 
 # <a name=3>3. Can We Travel Through One?</a>
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/schwormholePaths.png" | absolute_url }})
-</center>
 
 So now we've described how wormholes appear in the EFEs and what they look like. Let's ask the interesting question about this type of wormhole now that we've dscribed it. If we went into one, would we, like, exist after that? Would anything exist, in fact? A couple of questions arise in this regard:
 
@@ -238,15 +226,11 @@ Here \\(u^{2}(1-\kappa^{2}) < 0\\) and \\(-\kappa^{2} < -1\\), so we have:
 
 With this information in mind, we can now examine the light cone in Kruskal coordinates. We'll highlight it's different regions in two ways: first in terms of how it relates to regions in space and then in terms of what the value of \\(r\\) is.
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/KruskalCone.png" | absolute_url }})
-</center>
 
 Other than the highlighting, these two figures correspond to light cones for a particle at the throat of the wormhole. The only difference is that it's in a somewhat unusual coordinate system. With that said the concept of timelike, spacelike and lightlike intervals still applies: 
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/terminology.gif" | absolute_url }})
-</center>
 
 #### <a name=3.2.7>3.2.7. Why the wormhole is non-traversable</a>
 
@@ -256,15 +240,11 @@ We're actually interested in the situation that a particle goes from a point A o
 
 Ok, so we know that the Schwaborlbjwemefk wormhole is non-traversable, but what would happen if we tried to traverse it anyway? Let's look at how the different regions on the light cone relate to \\(r\\):
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/KruskalConeRadii.png" | absolute_url }})
-</center>
 
 Unless we take a lightlike path starting at the throat, any path a particle can take will eventually lead to a region of negative \\(r\\). However our particle cannot travel in a region where spacetime does not exist. This means that the spacetime changes shape: ***as \\(|v|\\) increases, the throat shrinks until the two asymptotically flat spaces are completely separate***. Here we can see what that looks like for \\(u = 0\\) and increasing \\(v\\):
 
-<center>
 ![]({{ "/assets/2017-11-02-wormholes/pinching.png" | absolute_url }})
-</center>
 
 This means that if an adventurer tried to traverse the wormhole and had somehow evolved to be immune to tidal forces, they'd still end up forever stuck in a region of infinite curvature. And this is true even if they had zero mass.
 
