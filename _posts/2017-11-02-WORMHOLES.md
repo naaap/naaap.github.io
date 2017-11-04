@@ -81,7 +81,7 @@ And that's the Schwarzschild solution to the EFEs! For this presentation we will
 
 It may be worth noting that the convention being used is that the timelike coordinate is positive while the spacelike coordinates are negative (the so called west coast signature).
 
-## <a name=2.2>2.2. Where Do Wormholes Come About?</a>
+## <a name="2.2">2.2. Where Do Wormholes Come About?</a>
 
 Examining the Schwazschild solution:
 
@@ -178,7 +178,7 @@ t = 2m\;\textrm{arctanh}\left(\pm 1\right) \Rightarrow t = \pm \infty \\
 \end{cases}
 \\]
 
-#### <a name=3.2.2>3.2.2. Case where \\(u > v\\), with \\(v > 0\\)</a>
+#### <a name="3.2.2">3.2.2. Case where \\(u > v\\), with \\(v > 0\\)</a>
 
 In this case \\(k > 1\\). This means that \\((k^{2}-1)v^{2} > 0\\), so:
 
