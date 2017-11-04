@@ -39,8 +39,6 @@ Wormholes are a consequence of Einstein's field equations (EFEs), and result in 
 
 A few terms to remember straight away. This whole thing:
 
-Hello there!
-
 ![]({{ "/assets/2017-11-02-wormholes/bridge.png" | absolute_url }}){: .center-image }
 
 That's the wormhole per se, and it is often referred to as the *bridge*, and the narrowest section of the bridge is called the *throat*. We will later examine how this particular shape comes about, among other things.
