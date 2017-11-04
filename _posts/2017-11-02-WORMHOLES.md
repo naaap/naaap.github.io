@@ -242,7 +242,7 @@ Ok, so we know that the Schwaborlbjwemefk wormhole is non-traversable, but what 
 
 ![]({{ "/assets/2017-11-02-wormholes/KruskalConeRadii.png" | absolute_url }})
 
-Unless we take a lightlike path starting at the throat, any path a particle can take will eventually lead to a region of negative \\(r\\). However our particle cannot travel in a region where spacetime does not exist. This means that the spacetime changes shape: ***as \\(\left|v\right|\\) increases, the throat shrinks until the two asymptotically flat spaces are completely separate***. Here we can see what that looks like for \\(u = 0\\) and increasing \\(v\\):
+Unless we take a lightlike path starting at the throat, any path a particle can take will eventually lead to a region of negative \\(r\\). However our particle cannot travel in a region where spacetime does not exist. This means that the spacetime changes shape: ***as \\(\mid v\mid\\) increases, the throat shrinks until the two asymptotically flat spaces are completely separate***. Here we can see what that looks like for \\(u = 0\\) and increasing \\(v\\):
 
 ![]({{ "/assets/2017-11-02-wormholes/pinching.png" | absolute_url }})
 
