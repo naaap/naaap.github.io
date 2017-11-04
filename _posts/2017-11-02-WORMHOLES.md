@@ -37,7 +37,7 @@
 
 Wormholes are a consequence of Einstein's field equations (EFEs), and result in the formation of a "bridge" connecting two asymptotically flat regions of spacetime, like so:
 
-![]({{ "/assets/2017-11-02-wormholes/blackholes_wormhole.jpg" | absolute_url }})
+![]({{ "/assets/2017-11-02-wormholes/blackholes_wormhole.jpg" | absolute_url }}){: .center-image }
 
 A few terms to remember straight away. This whole thing:
 
