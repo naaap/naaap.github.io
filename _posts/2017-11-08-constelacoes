@@ -1,18 +1,18 @@
 # <a name = "fsky"> constellations</a>
 
-[fullSky]: ./img/fullSky.png "img"
-[lyraConstellation]: ./img/Lyra.gif "img"
-[cygnusConstellation]: ./img/constellation-cygnus.png "img"
-[pegasusConstellation]: ./img/pegasus.jpg "img"
-[cepheusConstellation]: ./img/Cepheus_constellation_map-fr.png "img"
-[cassiopeiaConstellation]: ./img/Cassiopeia_constellation_map-fr.png "img"
-[orionConstellation]: ./img/Orion_constelation_PP3_map_PL.jpg "img"
-[aurigaConstellation]: ./img/Auriga.gif "img"
-[taurusConstellation]: ./img/Starwatch-Taurus_1612.png "img"
-[perseusConstellation]: ./img/perseus_constellation_map.png "img"
-[ariesConstellation]: ./img/Aries.jpg "img"
-[andromedaConstellation]: ./img/Andromeda_annotated.png "img"
-[uminorConstellation]: ./img/ursaminor.gif "img"
+[fullSky]: {{ "/assets/2017-11-08-constelacoes/fullSky.png" | absolute_url }}
+[lyraConstellation]: {{ "/assets/2017-11-08-constelacoes/Lyra.gif" | absolute_url }}
+[cygnusConstellation]: {{ "/assets/2017-11-08-constelacoes/constellation-cygnus.png" | absolute_url }}
+[pegasusConstellation]: {{ "/assets/2017-11-08-constelacoes/pegasus.jpg" | absolute_url }}
+[cepheusConstellation]: {{ "/assets/2017-11-08-constelacoes/Cepheus_constellation_map-fr.png" | absolute_url }}
+[cassiopeiaConstellation]: {{ "/assets/2017-11-08-constelacoes/Cassiopeia_constellation_map-fr.png" | absolute_url }}
+[orionConstellation]: {{ "/assets/2017-11-08-constelacoes/Orion_constelation_PP3_map_PL.jpg" | absolute_url }}
+[aurigaConstellation]: {{ "/assets/2017-11-08-constelacoes/Auriga.gif" | absolute_url }}
+[taurusConstellation]: {{ "/assets/2017-11-08-constelacoes/Starwatch-Taurus_1612.png" | absolute_url }}
+[perseusConstellation]: {{ "/assets/2017-11-08-constelacoes/perseus_constellation_map.png" | absolute_url }}
+[ariesConstellation]: {{ "/assets/2017-11-08-constelacoes/Aries.jpg" | absolute_url }}
+[andromedaConstellation]: {{ "/assets/2017-11-08-constelacoes/Andromeda_annotated.png" | absolute_url }}
+[uminorConstellation]: {{ "/assets/2017-11-08-constelacoes/ursaminor.gif" | absolute_url }}
 
 1. [***Most Interesting Objects***](#mio)
 1. [**lyra**](#lyra)
@@ -28,9 +28,7 @@
 1. [**andromeda**](#andromeda)
 1. [**uminor**](#uminor)
 
-<center>
-![alt text][fullSky]
-</center>
+![alt text][fullSky]{: .center-image }
 
 ## <a name = "mio">Most Interesting Objects</a>
 
@@ -50,9 +48,7 @@
 
 ## <a name="lyra"> lyra</a>
 
-<center>
-![alt text][lyraConstellation]
-</center>
+![alt text][lyraConstellation]{: .center-image }
 
 - **Vega** - brightest star in northern hemisphere after Arcturus, first star to other than the Sun to have a clear spectrum recorded, it's surrounded by a debris disk
 - **epsilon lyrae** - Double Double, it's two distinct systems of binary stars
@@ -63,9 +59,7 @@
 
 ## <a name = "cygnus"> cygnus </a>
 
-<center>
-![alt text][cygnusConstellation]
-</center>
+![alt text][cygnusConstellation]{: .center-image }
 
 - **deneb** - white supergiant
 - **beta cygni aka albireo** - binary star with contrasting hues, LOOK AT IT
@@ -75,9 +69,7 @@
 
 ## <a name="pegasus"> pegasus</a>
 
-<center>
-![alt text][pegasusConstellation]
-</center>
+![alt text][pegasusConstellation]{: .center-image }
 
 - **pi pegasi** - binary star
 - **epsilon pegasi** - brightest star in pegasus, orange supergiant
@@ -87,9 +79,7 @@
 
 ## <a name = "cepheus">cepheus</a>
 
-<center>
-![alt text][cepheusConstellation]
-</center>
+![alt text][cepheusConstellation]{: .center-image }
 
 - **alpha cephei** - brightest star, booooring
 - **delta cephei** - prolly not visible, but it's the prototype cepheid variable
@@ -99,9 +89,7 @@
 
 ## <a name = "cassiopeia">cassiopeia</a>
 
-<center>
-![alt text][cassiopeiaConstellation]
-</center>
+![alt text][cassiopeiaConstellation]{: .center-image }
 
 - **alpha cassiopeiae** - multiple star, four things: orange giant (m +2.2), yellow dwarf (m +8.9), two other stars (veeery dim)
 - **gamma cassiopeiae** - prototype gamma cassiopaeia variable *([Shell stars](#shell)  often show variability in their spectra and brightness. The shell features may come and go, with the star changing from a shell star to a normal B star or Be star. Shell stars which show irregular variability due to changes in, or the disappearance of, the "shell" are called Gamma Cassiopeiae variables)*. Very easy to see. LOOK AT IT. More stuff, spectroscopically it's a binary star, but no direct evidence of the companion has been found.
@@ -113,9 +101,7 @@
 
 ## <a name = "orion">orion</a>
 
-<center>
-![alt text][orionConstellation]
-</center>
+![alt text][orionConstellation]{: .center-image }
 
 The seven stars of the hourglass asterism in orion are among the most distant that can easily be seen with the naked eye.
 
@@ -128,9 +114,7 @@ The seven stars of the hourglass asterism in orion are among the most distant th
 
 ## <a name = "auriga">auriga</a>
 
-<center>
-![alt text][aurigaConstellation]
-</center>
+![alt text][aurigaConstellation]{: .center-image }
 
 - **Capella** - sixth brightest star. Spectroscopic binary consisting of two yellow giants (G-type and G- or F-type, respectively).
 - **Menkalinan** - eclipsing binary
@@ -140,9 +124,7 @@ The seven stars of the hourglass asterism in orion are among the most distant th
 
 ## <a name = "taurus">taurus</a>
 
-<center>
-![alt text][taurusConstellation]
-</center>
+![alt text][taurusConstellation]{: .center-image }
 
 - **taurids** - prolly won't see them, but they're a meteor shower that tends to happen during november
 - **hyades** - open cluster, consists of a roughly spherical group of hundreds of stars sharing the same age, place of origin, chemical characteristics, and motion through space.
@@ -152,9 +134,7 @@ The seven stars of the hourglass asterism in orion are among the most distant th
 
 ## <a name = "perseus">perseus</a>
 
-<center>
-![alt text][perseusConstellation]
-</center>
+![alt text][perseusConstellation]{: .center-image }
 
 - **algol** - prototype of a group of eclipsing binary stars named [Algol variables](#avar), though it has a third member to make up what is actually a triple star system
 - **mirfak + alpha persei cluster** - mirfak is the brightest star in the constellation, and it's the brightest member of the alpha persei cluster. INTERESTING. LOOK AT IT
@@ -171,9 +151,7 @@ The seven stars of the hourglass asterism in orion are among the most distant th
 
 ## <a name = "aries">aries</a>
 
-<center>
-![alt text][ariesConstellation]
-</center>
+![alt text][ariesConstellation]{: .center-image }
 
 - **sharatan** - spectroscopic binary star, one in which the companion star is only known through analysis of the spectra
 - **mesarthim** -  binary star with two white-hued components, located in a rich field of magnitude 8–12 stars. LOOK AT IT *The primary, γ1 Arietis, is an Alpha² Canum Venaticorum variable star that has a range of 0.02 magnitudes and a period of 2.607 days. It is unusual because of its strong silicon emission lines.*
@@ -182,9 +160,7 @@ The seven stars of the hourglass asterism in orion are among the most distant th
 
 ## <a name = "andromeda">andromeda</a>
 
-<center>
-![alt text][andromedaConstellation]
-</center>
+![alt text][andromedaConstellation]{: .center-image }
 
 - **almach** - Almach is a multiple star with a yellow primary of magnitude 2.3 and a blue-green secondary of magnitude 5.0. The secondary is itself a double star, with a secondary of magnitude 6.3 and a period of 61 years.
 - **upsilon and** - is a magnitude 4.1 binary system that consists of one F-type dwarf and an M-type dwarf. The primary star has a planetary system with four confirmed planets
@@ -194,9 +170,7 @@ The seven stars of the hourglass asterism in orion are among the most distant th
 
 ## <a name = "uminor">ursa minor</a>
 
-<center>
-![alt text][uminorConstellation]
-</center>
+![alt text][uminorConstellation]{: .center-image }
 
 - **polaris** - i mean, it's pretty neat, you can use it to calculate your latitude and everything. It is the brightest Cepheid variable star visible from Earth. It is a triple star system, the supergiant primary star having two yellow-white main-sequence star companions. LOOK AT IT
 
